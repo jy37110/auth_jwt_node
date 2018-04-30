@@ -1,0 +1,19 @@
+{
+  "name": "auth_jwt",
+  "version": "1.0.0",
+  "description": "An example of server side authentication using JSON WEB TOKEN writing in node js.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Authentication"
+  ],
+  "author": "Chao",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.3",
+    "mongodb": "^3.0.7"
+  }
+}
